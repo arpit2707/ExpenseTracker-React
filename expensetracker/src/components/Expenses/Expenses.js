@@ -14,6 +14,7 @@ const Expenses = (props) => {
           location={item.locationOfExpenditure}
         />
       ))}
+      <div></div>
     </Card>
   );
 };
